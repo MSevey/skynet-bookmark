@@ -1,26 +1,11 @@
-# 2read: bookmark articles forever
+# Skynet Bookmark: bookmark articles forever
 
-## [Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/2read/)
-
-## [Chrome extension](https://chrome.google.com/webstore/detail/2read/nooeemkngkckhnlfbmikbkiiabbbnlap)
-
-### Features
+## Features
 
 - Web article cleaning for readability
-- Upload to [IPFS](https://ipfs.io/)
-- Seeding the content to multiple gateways
-- Automatic "pinning"
-- Automatic copying to [Mutable File System (MFS)](https://docs.ipfs.io/guides/concepts/mfs/)
+- Upload to [Skynet](https://siasky.net/)
 - Automatic bookmarking
 
-### Release notes
+## Release notes
 
-- v1.8 - copy articles to [Mutable File System (MFS)](https://docs.ipfs.io/guides/concepts/mfs/)
-- v1.7 - serious speedup, more gateways added, automatic fastest gateway selection, image pre-seeding
-
-### Note
-
-Content shared with this addon is just cached on IPFS servers. If you want to pin the content permanently, you need to have IPFS node running on your computer. You can easily install your local IPFS node using one of these desktop clients:
-
-- [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop/releases)
-- [Orion](https://orion.siderus.io/)
+- v1.0 - initial release
